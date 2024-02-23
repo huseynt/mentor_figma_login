@@ -81,6 +81,9 @@ body {
 .section_block-form-span-left-paragraph {
   margin: 0;
 }
+.section_block-form-span-right {
+  text-decoration: none;
+}
 .section_block-form-login {
   width: 342px;
   height: 48px;
